@@ -1,4 +1,4 @@
-# Neovim Config
+# Neovim configuration
 A Neovim configuration that I set up myself using the lazy.nvim plugin manager. I'll keep updating this config as needed.
 
 ![image](https://github.com/user-attachments/assets/e776d47f-3414-455d-8481-03094eee9bec)
